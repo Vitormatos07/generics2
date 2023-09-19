@@ -1,0 +1,14 @@
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção15-Generics, Set, Directory\generics2\generics2\bin\Debug\net7.0\generics2.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção15-Generics, Set, Directory\generics2\generics2\bin\Debug\net7.0\generics2.deps.json
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção15-Generics, Set, Directory\generics2\generics2\bin\Debug\net7.0\generics2.runtimeconfig.json
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção15-Generics, Set, Directory\generics2\generics2\bin\Debug\net7.0\generics2.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção15-Generics, Set, Directory\generics2\generics2\bin\Debug\net7.0\generics2.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção15-Generics, Set, Directory\generics2\generics2\obj\Debug\net7.0\generics2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção15-Generics, Set, Directory\generics2\generics2\obj\Debug\net7.0\generics2.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção15-Generics, Set, Directory\generics2\generics2\obj\Debug\net7.0\generics2.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção15-Generics, Set, Directory\generics2\generics2\obj\Debug\net7.0\generics2.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção15-Generics, Set, Directory\generics2\generics2\obj\Debug\net7.0\generics2.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção15-Generics, Set, Directory\generics2\generics2\obj\Debug\net7.0\refint\generics2.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção15-Generics, Set, Directory\generics2\generics2\obj\Debug\net7.0\generics2.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção15-Generics, Set, Directory\generics2\generics2\obj\Debug\net7.0\generics2.genruntimeconfig.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção15-Generics, Set, Directory\generics2\generics2\obj\Debug\net7.0\ref\generics2.dll
